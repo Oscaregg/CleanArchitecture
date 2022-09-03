@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NorthWind.Entities.Exceptions
 {
-    public  class GeneralException : Exception
+    public class GeneralException : Exception
     {
         public string Detail { get; set; }
         public GeneralException() { }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ywQESpU97yin7s2Y6UeMqov2fpceZdvANcg1zA1NYdcYEVFQ/Cy11e0MFoWBWiv6cEcFgMcBkEHULCDrZin0jg==",
+  "dgSpecHash": "YCAqZEyIzsZphpd6GMYvcfhlaw7YCbDsFsR1sKXGZGF2wfaBdx0Nhb1S4+PpPswadvDAKBT01jfPjZx6uVBNhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oscar\\Downloads\\Todos\\clases\\programación\\C#\\clean architecture\\CleanArchitecture-master\\CleanArchitecture-master\\NorthWind.Entities\\NorthWind.Entities.csproj",
+  "projectFilePath": "C:\\Users\\oscar\\Downloads\\Todos\\clases\\programación\\C#\\NorthWind.Entities\\NorthWind.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oscar\\Downloads\\Todos\\clases\\programación\\C#\\clean architecture\\CleanArchitecture-master\\CleanArchitecture-master\\NorthWind.Entities\\NorthWind.Entities.csproj": {}
+    "C:\\Users\\oscar\\Downloads\\Todos\\clases\\programación\\C#\\NorthWind.Entities\\NorthWind.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oscar\\Downloads\\Todos\\clases\\programación\\C#\\clean architecture\\CleanArchitecture-master\\CleanArchitecture-master\\NorthWind.Entities\\NorthWind.Entities.csproj": {
+    "C:\\Users\\oscar\\Downloads\\Todos\\clases\\programación\\C#\\NorthWind.Entities\\NorthWind.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oscar\\Downloads\\Todos\\clases\\programación\\C#\\clean architecture\\CleanArchitecture-master\\CleanArchitecture-master\\NorthWind.Entities\\NorthWind.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\oscar\\Downloads\\Todos\\clases\\programación\\C#\\NorthWind.Entities\\NorthWind.Entities.csproj",
         "projectName": "NorthWind.Entities",
-        "projectPath": "C:\\Users\\oscar\\Downloads\\Todos\\clases\\programación\\C#\\clean architecture\\CleanArchitecture-master\\CleanArchitecture-master\\NorthWind.Entities\\NorthWind.Entities.csproj",
+        "projectPath": "C:\\Users\\oscar\\Downloads\\Todos\\clases\\programación\\C#\\NorthWind.Entities\\NorthWind.Entities.csproj",
         "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oscar\\Downloads\\Todos\\clases\\programación\\C#\\clean architecture\\CleanArchitecture-master\\CleanArchitecture-master\\NorthWind.Entities\\obj\\",
+        "outputPath": "C:\\Users\\oscar\\Downloads\\Todos\\clases\\programación\\C#\\NorthWind.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
